@@ -7,7 +7,7 @@
       },
       {
         "type": "style",
-        "contents": ".body-content-test { content: 'body contents ok' }"
+        "contents": ".body-content-test:after { content: 'body contents ok' }"
       }
     ],
     "head": [
@@ -17,7 +17,7 @@
       },
       {
         "type": "style",
-        "contents": ".head-content-test { content: 'head contents ok' }"
+        "contents": ".head-content-test:after { content: 'head contents ok' }"
       }
     ]
   }
