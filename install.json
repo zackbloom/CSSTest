@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "body": [
+      {
+        "type": "style",
+        "src": "./style.css"
+      },
+      {
+        "type": "style",
+        "contents": ".test { background-color: pink; }"
+      }
+    ]
+  }
+}
