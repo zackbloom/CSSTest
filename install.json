@@ -3,11 +3,21 @@
     "body": [
       {
         "type": "style",
-        "src": "./style.css"
+        "src": "./body.css"
       },
       {
         "type": "style",
-        "contents": ".test { background-color: pink; }"
+        "contents": ".body-content-test { content: 'body contents ok' }"
+      }
+    ],
+    "head": [
+      {
+        "type": "style",
+        "src": "./head.css"
+      },
+      {
+        "type": "style",
+        "contents": ".head-content-test { content: 'head contents ok' }"
       }
     ]
   }
